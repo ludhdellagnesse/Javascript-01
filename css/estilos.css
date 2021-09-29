@@ -1,0 +1,26 @@
+body{
+    font-family: monospace;
+    min-height: 400px;
+    background-image: url('../images/icone.png');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-color: #000;
+}
+.container{
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+.titulo{
+    color: #fff;
+    margin: 0 0 5px 5px;
+}
+.subtitulo{
+    color: #fff;
+    margin: 5px;
+}
+form{
+    color: #fff;
+    margin: 25px;
+   
+}
